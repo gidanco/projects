@@ -12,6 +12,10 @@
     <url>http://stokito.blogspot.com/2013/02/blog-post_27.html</url>
     <inceptionYear>2013</inceptionYear>
 
+    <properties>
+          <sonar.organization>gidanco</sonar.organization>
+          <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+    </properties>
     <licenses>
         <license>
             <name>The Apache Software License, Version 2.0</name>
